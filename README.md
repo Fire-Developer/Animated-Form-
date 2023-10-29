@@ -4,7 +4,7 @@ I'm going to show you how to use modern HTML, CSS, and JavaScript to create a co
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.jpg)
+![Screenshot](Screenshot.jpg)
 
 # Fire-Developer
 
